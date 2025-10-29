@@ -1,0 +1,5 @@
+{
+  "name": "Rubik's Kaleido",
+  "description": "A challenging and visually captivating web-based puzzle game inspired by intricate circular logic puzzles. Players rotate interconnected groups of colored nodes to restore a scrambled pattern to its original, harmonious state.",
+  "requestFramePermissions": []
+}
